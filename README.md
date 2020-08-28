@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".frontend/src/assets/img/logo.svg" width="200px" />
+    <img alt="Semana OmniStack" src="frontend/src/assets/img/logo.svg" width="200px" />
 </h1>
 
 <br>
